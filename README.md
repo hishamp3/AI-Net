@@ -1,4 +1,4 @@
-# Research-Lab
+# AI-NET
 The Trainer coordinator component is responsible for building dataspace structure and generating valid data contracts.
 
 The Aggregation endpoint aggregates ML hyperparams from multiple dataspace connectors.
